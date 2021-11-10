@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bd6b443.chunk.css",
+    "main.js": "/static/js/main.4e7d9fe8.chunk.js",
+    "main.js.map": "/static/js/main.4e7d9fe8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c6561372.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c6561372.js.map",
+    "static/js/2.09ffb0a2.chunk.js": "/static/js/2.09ffb0a2.chunk.js",
+    "static/js/2.09ffb0a2.chunk.js.map": "/static/js/2.09ffb0a2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9bd6b443.chunk.css.map": "/static/css/main.9bd6b443.chunk.css.map",
+    "static/js/2.09ffb0a2.chunk.js.LICENSE.txt": "/static/js/2.09ffb0a2.chunk.js.LICENSE.txt",
+    "static/media/camera.fc3a5a97.gif": "/static/media/camera.fc3a5a97.gif",
+    "static/media/confetti.436ea643.gif": "/static/media/confetti.436ea643.gif",
+    "static/media/gift.1e241d31.gif": "/static/media/gift.1e241d31.gif",
+    "static/media/heart.661ebd27.gif": "/static/media/heart.661ebd27.gif",
+    "static/media/PhotosStyles.module.css": "/static/media/home.a34e9a25.jpg",
+    "static/media/ring.fc9084bd.gif": "/static/media/ring.fc9084bd.gif",
+    "static/media/wine.ff2c620a.gif": "/static/media/wine.ff2c620a.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6561372.js",
+    "static/js/2.09ffb0a2.chunk.js",
+    "static/css/main.9bd6b443.chunk.css",
+    "static/js/main.4e7d9fe8.chunk.js"
+  ]
+}
